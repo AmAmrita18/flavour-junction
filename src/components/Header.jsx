@@ -47,18 +47,18 @@ const Header = () => {
         </div>
 
         <nav className="">
-          <ul className="md:flex hidden lg:gap-x-14 md:gap-x-8  gap-4 md:text-[17px] text-[15px] font-[700] text-[#FFFFFF] leading-6">
+          <ul className="md:flex hidden lg:gap-x-14 md:gap-x-8  gap-4 md:text-[17px] text-[15px] font-[700] text-[#f6f7eb] leading-6">
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
-              <NavLink to="/" className={({isActive}) => `${isActive && "text-[#EF4030]"}`}>HOME</NavLink>
+              <NavLink to="/" className={({isActive}) => `${isActive && "text-[#eb5e28]"}`}>HOME</NavLink>
             </li>
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
-              <NavLink to="/about" className={({isActive}) => `${isActive && "text-[#EF4030]"}`}>ABOUT US</NavLink>
+              <NavLink to="/about" className={({isActive}) => `${isActive && "text-[#eb5e28]"}`}>ABOUT US</NavLink>
             </li>
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
-              <NavLink to="/products" className={({isActive}) => `${isActive && "text-[#EF4030]"}`}>PRODUCTS</NavLink>
+              <NavLink to="/products" className={({isActive}) => `${isActive && "text-[#eb5e28]"}`}>PRODUCTS</NavLink>
             </li>
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
-              <NavLink to="/contact" className={({isActive}) => `${isActive && "text-[#EF4030]"}`}>CONTACT</NavLink>
+              <NavLink to="/contact" className={({isActive}) => `${isActive && "text-[#eb5e28]"}`}>CONTACT</NavLink>
             </li>
           </ul>
         </nav>

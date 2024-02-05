@@ -5,5 +5,7 @@
 @layer base {
   html {
     font-family: 'Merienda', cursive;
+    background-color: #393e41;
+    color: #f6f7eb; 
   }
 }
