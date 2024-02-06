@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../Hero";
+import SpiceSensations from "./SpiceSensations";
 
 
 const description1 = `Embark on a Culinary Sojourn through India's Spice Tapestry at Flavour Junction`;
@@ -15,7 +16,7 @@ const Home = () => {
         button={button}
         heroImage={heroImage}
       />
-      
+      <SpiceSensations  />
     </div>
   );
 };
