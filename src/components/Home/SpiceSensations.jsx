@@ -42,7 +42,7 @@ const SpiceSensations = () => {
               </h4>
             </div>
             <h1 className="py-4 lg:text-[50px] md:text-[40px] text-[30px] leading-none font-[600] text-[#EF4030]">
-            From Farm to Flavor Tale
+            From Farm to Flavour Tale
             </h1>
             <div className="flex flex-col gap-y-4">
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">
@@ -54,7 +54,7 @@ const SpiceSensations = () => {
               
             </div>
 
-            <Link to="/about" className="text-[#393e41] w-[230px] bg-[#EF4030] transition-all duration-700 ease-in-out hover:scale-95  flex items-center gap-3 mt-8 px-8 py-5 rounded-full font-[600] text-[17px]">
+            <Link to="/about" className="text-[#f6f7eb] w-[230px] bg-[#EF4030] transition-all duration-700 ease-in-out hover:scale-95  flex items-center gap-3 mt-8 px-8 py-5 rounded-full font-[600] text-[17px]">
               Read About Us <GoArrowRight className="w-6 h-6" />
             </Link>
           </div>
