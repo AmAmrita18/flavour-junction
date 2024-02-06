@@ -24,14 +24,15 @@ const CulinaryElegance = () => {
                 />
               </div>
               <div>
-                <img
+              <img
                   src={home4}
                   alt=""
-                  width={620}
-                  height={840}
-                  className=" object-cover  rounded-t-3xl rounded-bl-3xl rounded-br-[7.5rem]"
+                  width={565}
+                  height={830}
+                  className=" object-cover rounded-t-3xl rounded-bl-3xl rounded-br-[7.5rem]"
                   loading="lazy"
                 />
+                
               </div>
             </div>
           </div>
