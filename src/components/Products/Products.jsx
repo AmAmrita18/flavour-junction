@@ -1,6 +1,7 @@
 import React from "react";
 import Hero from "../Hero";
 import Selection from "./Selection";
+import CtaProduct from "./CtaProduct";
 
 
 const description1 = `Savor the Richness of India's Spice Heritage with Flavour Junction's Collection`;
@@ -17,6 +18,7 @@ const Products = () => {
         heroImage={heroImage}
       />
       <Selection/>
+      <CtaProduct/>
     </div>
   );
 };
