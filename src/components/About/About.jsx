@@ -2,6 +2,7 @@ import React from "react";
 import Hero from "../Hero";
 import Heritage from "./Heritage";
 import Sustainability from "./Sustainability";
+import CtaAbout from "./CtaAbout";
 
 
 const description1 = `Unveiling the Essence of Indian Spice Mastery at Flavour Junction`;
@@ -19,6 +20,7 @@ const About = () => {
       />
       <Heritage/>
       <Sustainability/>
+      <CtaAbout/>
     </div>
   );
 };

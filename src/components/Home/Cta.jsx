@@ -6,7 +6,7 @@ import ctaImage from "/hero9.jpg";
 const Cta = () => {
   return (
     <div
-      className="w-full h-full md:py-32 py-8"
+      className="w-full h-screen"
       style={{
         backgroundImage: `url('${ctaImage}')`,
         backgroundRepeat: "no-repeat",
