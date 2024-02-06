@@ -1,6 +1,6 @@
 import React from "react";
 import box from "../../assets/box.png";
-import home1 from "../../assets/home1.jpg";
+import home1 from "../../assets/home3.jpg";
 import { Link } from "react-router-dom";
 import { GoArrowRight } from "react-icons/go";
 
@@ -27,13 +27,13 @@ const SpiceSensations = () => {
                 alt=""
                 width={520}
                 height={830}
-                className=" object-cover rounded-t-3xl rounded-bl-3xl rounded-br-[6.5rem]"
+                className=" object-cover rounded-t-3xl rounded-bl-3xl rounded-br-[7.5rem]"
                 loading="lazy"
               />
               </div>
             </div>
           </div>
-          <div className="md:w-[50%] w-full md:px-0 px-2 lg:mt-10  md:mt-8 mt-3">
+          <div className="md:w-[50%] w-full md:px-0 px-2 lg:mt-16  md:mt-8 mt-3">
             <div className="flex gap-4 items-center ">
               <div className="w-3 h-3 bg-[#f6f7eb] "></div>
               <h4 className="text-xl font-[600] text-[#EF4030]">

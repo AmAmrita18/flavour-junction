@@ -1,6 +1,10 @@
 import React from "react";
 import Hero from "../Hero";
 import SpiceSensations from "./SpiceSensations";
+import ChooseFJ from "./ChooseFJ";
+import Cultivated from "./Cultivated";
+import Collections from "./Collections";
+import Cta from "./Cta";
 
 
 const description1 = `Embark on a Culinary Sojourn through India's Spice Tapestry at Flavour Junction`;
@@ -17,6 +21,10 @@ const Home = () => {
         heroImage={heroImage}
       />
       <SpiceSensations  />
+      <ChooseFJ/>
+      <Cultivated/>
+      <Collections/>
+      <Cta/>
     </div>
   );
 };

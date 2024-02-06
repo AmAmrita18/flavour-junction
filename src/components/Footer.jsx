@@ -29,15 +29,15 @@ const Footer = () => {
 
         <div className="flex py-16 mb-2">
           <div className="w-[35%] flex md:flex-row flex-col md:my-0 my-auto gap-5  items-center">
-            <div className="w-7 cursor-pointer h-7 rounded-full flex items-center justify-center border border-[#eb5e28]">
+            <div className="w-7 cursor-pointer h-7 rounded-full flex items-center justify-center border border-[#EF4030]">
               <TiSocialFacebook className="text-[#f6f7eb] text-lg" />
             </div>
-            <div className="w-7 h-7 cursor-pointer rounded-full flex items-center justify-center border border-[#eb5e28]">
+            <div className="w-7 h-7 cursor-pointer rounded-full flex items-center justify-center border border-[#EF4030]">
               <IoLogoInstagram className="text-[#f6f7eb] text-xs" />
             </div>
           </div>
 
-          <div className="w-[65%] flex justify-end border-l border-[#eb5e28]">
+          <div className="w-[65%] flex justify-end border-l border-[#EF4030]">
             <p className="lg:text-[19px] md:text[18px] text-[16px] w-[70%] text-end font-[400] text-[#f6f7eb] leading-tight">
             Embark on a Culinary Voyage with Flavour Junction: A Heritage of Spice Fusion Crafted from India's Rich Culinary Legacy. Bringing You Unique Flavors and Spice Stories for Over 40 Years.
             </p>
