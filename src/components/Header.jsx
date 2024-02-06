@@ -66,7 +66,7 @@ const Header = () => {
         <div className="md:hidden flex justify-center items-center">
             <div
               onClick={toggleMenu}
-              className="text-[#FFFFFF] cursor-pointer focus:outline-none"
+              className="text-[#f6f7eb] cursor-pointer focus:outline-none"
               
             >
               {isMenuOpen ? (
@@ -79,12 +79,12 @@ const Header = () => {
             </div>
         </div>
         <div
-          className={`space-y-4 w-[85%]  rounded-2xl max-w-[1200px] mx-auto px-4 md:hidden mt-16 py-32 bg-[#0A385A] opacity-90 ${
+          className={`space-y-4 w-[85%]  rounded-2xl max-w-[1200px] mx-auto px-4 md:hidden mt-16 py-32 bg-[#393e41] opacity-90 ${
             isMenuOpen ? "block fixed top-14 right-0 left-0" : "hidden"
           }`}
          
         >
-          <ul className=" flex flex-col items-center  lg:gap-x-14 md:gap-x-8  gap-8 md:text-[17px] text-[15px] font-[700] text-[#FFFFFF] leading-6">
+          <ul className=" flex flex-col items-center  lg:gap-x-14 md:gap-x-8  gap-8 md:text-[17px] text-[15px] font-[700] text-[#f6f7eb] leading-6">
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
               <NavLink to="/" className={({isActive}) => `${isActive && "text-[#EF4030]"}`}>HOME</NavLink>
             </li>
