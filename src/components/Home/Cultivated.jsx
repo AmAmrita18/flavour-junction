@@ -1,7 +1,7 @@
 import React from "react";
 import box from "../../assets/box.png";
 import home2 from "../../assets/home1.jpg";
-import { FaCheck } from "react-icons/fa6";
+
 
 const Cultivated = () => {
   return (
@@ -53,17 +53,13 @@ const Cultivated = () => {
             <ul className="flex md:flex-row flex-col md:gap-y-0 gap-y-1 lg:gap-x-8 md:gap-x-4 gap-x-1 lg:mt-8 md:mt-4 mt-4">
               <div className="flex flex-col md:gap-y-4 gap-y-1 justify-between">
                 <div className="flex  items-center  gap-4">
-                  <div className="w-[14px] h-[14px] rounded-full flex items-center bg-[#f6f7eb]">
-                    <FaCheck className="w-[11px] h-[11px]  text-[#393e41]" />
-                  </div>
+                <div className="w-3 h-3 bg-[#f6f7eb] "></div>
                   <li className="lg:text-[18px] md:text-[18px] text-[13px]  font-[600] text-[#EF4030] leading-tight">
                   Cool Storage Chambers
                   </li>
                 </div>
                 <div className="flex items-center  gap-4">
-                  <div className="w-[14px] h-[14px] rounded-full flex items-center bg-[#f6f7eb]">
-                    <FaCheck className="w-[11px] h-[11px]  text-[#393e41]" />
-                  </div>
+                <div className="w-3 h-3 bg-[#f6f7eb] "></div>
                   <li className="lg:text-[18px] md:text-[18px] text-[13px]  font-[600] text-[#EF4030] leading-tight">
                   Eco-friendly Packaging Zones
                   </li>
@@ -71,18 +67,14 @@ const Cultivated = () => {
               </div>
               <div className="flex flex-col md:gap-y-4 gap-y-1 justify-between ">
                 <div className="flex items-center  gap-4">
-                  <div className="w-[14px] h-[14px] rounded-full flex items-center bg-[#f6f7eb]">
-                    <FaCheck className="w-[11px] h-[11px]  text-[#393e41]" />
-                  </div>
+                <div className="w-3 h-3 bg-[#f6f7eb] "></div>
                   <li className="lg:text-[18px] md:text-[18px] text-[13px]  font-[600] text-[#EF4030] leading-tight">
                   Stringent Quality Checkpoints
                   </li>
                 </div>
 
                 <div className="flex items-center  gap-4">
-                  <div className="w-[14px] h-[14px] rounded-full flex items-center bg-[#f6f7eb]">
-                    <FaCheck className="w-[11px] h-[11px]  text-[#393e41]" />
-                  </div>
+                <div className="w-3 h-3 bg-[#f6f7eb] "></div>
                   <li className="lg:text-[18px] md:text-[18px] text-[13px]  font-[600] text-[#EF4030] leading-tight">
                   Engagement-Centric Spice Stand
                   </li>

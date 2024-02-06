@@ -1,5 +1,7 @@
 import React from "react";
 import Hero from "../Hero";
+import Heritage from "./Heritage";
+import Sustainability from "./Sustainability";
 
 
 const description1 = `Unveiling the Essence of Indian Spice Mastery at Flavour Junction`;
@@ -15,7 +17,8 @@ const About = () => {
         button={button}
         heroImage={heroImage}
       />
-      
+      <Heritage/>
+      <Sustainability/>
     </div>
   );
 };
