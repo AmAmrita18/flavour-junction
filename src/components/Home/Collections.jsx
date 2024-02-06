@@ -5,9 +5,9 @@ import home3 from "../../assets/home2.png";
 const Collections = () => {
   return (
     <div className="w-full">
-      <div className="w-[80%]  max-w-[1200px] pt-8 pb-24 lg:my-20 md:my-10 my-5 mx-auto">
+      <div className="w-[80%]  max-w-[1200px] pt-8 pb-8 lg:my-20 md:my-10 my-5 mx-auto">
         <div className="flex md:flex-row flex-col-reverse lg:gap-44 md:gap-8 gap-4">
-          <div className="md:w-[50%] w-full md:px-0 px-4 lg:mt-8 md:mt-4 mt-0">
+          <div className="md:w-[50%] w-full md:px-0 px-4 lg:mt-12 md:mt-4 mt-0">
             <div className="flex gap-4 items-center ">
               <div className="w-3 h-3 bg-[#f6f7eb] "></div>
               <h4 className="text-xl font-[600] text-[#EF4030]">

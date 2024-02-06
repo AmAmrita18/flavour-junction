@@ -5,6 +5,7 @@ import ChooseFJ from "./ChooseFJ";
 import Cultivated from "./Cultivated";
 import Collections from "./Collections";
 import Cta from "./Cta";
+import CulinaryElegance from "./CulinaryElegance";
 
 
 const description1 = `Embark on a Culinary Sojourn through India's Spice Tapestry at Flavour Junction`;
@@ -24,6 +25,7 @@ const Home = () => {
       <ChooseFJ/>
       <Cultivated/>
       <Collections/>
+      <CulinaryElegance/>
       <Cta/>
     </div>
   );

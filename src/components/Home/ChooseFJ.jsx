@@ -3,7 +3,7 @@ import React from "react";
 const ChooseFJ = () => {
   return (
     <div className="w-full">
-      <div className="w-[80%]  max-w-[1200px] pt-8 py-2 lg:my-20 md:my-14 my-5 mx-auto">
+      <div className="w-[80%]  max-w-[1200px] pt-8 py-8 lg:my-20 md:my-14 my-5 mx-auto">
         <div className="flex flex-col items-center justify-center lg:mt-20 md:mt-4 mt-1">
           <div className="flex gap-4 items-center ">
             <div className="w-3 h-3 bg-[#f6f7eb] "></div>
