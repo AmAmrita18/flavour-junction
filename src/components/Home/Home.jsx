@@ -5,7 +5,7 @@ import Hero from "../Hero";
 const description1 = `Embark on a Culinary Sojourn through India's Spice Tapestry at Flavour Junction`;
 
 const button = { title: `Explore Now`, url: `#` };
-const heroImage = `/hero7.jpg`;
+const heroImage = `/hero6.jpg`;
 const Home = () => {
   return (
     <div className="w-full">

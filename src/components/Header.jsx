@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
-import headerLogo from "../assets/logo2.png";
+import headerLogo from "/logo2.png";
 import { FaBars } from 'react-icons/fa'
 import { IoIosCloseCircle } from "react-icons/io";
 
@@ -37,7 +37,7 @@ const Header = () => {
             <img
               src={headerLogo}
               alt="Logo"
-              className="py-2 object-cover lg:w-[110px]  lg:h-[120px] md:w-[90px] md:h-[100px] w-[50px] h-[60px]"
+              className="py-2 object-cover lg:w-[120px]  lg:h-[130px] md:w-[100px] md:h-[110px] w-[60px] h-[70px]"
               width={110}
               height={120}
               loading="lazy"
