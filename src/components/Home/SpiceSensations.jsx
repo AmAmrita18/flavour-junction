@@ -46,7 +46,7 @@ const SpiceSensations = () => {
             </h1>
             <div className="flex flex-col gap-y-4">
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">
-              Selecting the perfect spice source is paramount for infusing your dishes with authentic taste and richness. At MasalaMania, we aren't just about business; we're guardians of a culinary legacy deeply woven into the fabric of India. Since 1985, we've been curating a vibrant array of spices, each one representing the essence of India's diverse flavors.
+              Selecting the perfect spice source is paramount for infusing your dishes with authentic taste and richness. At Flavour Junction, we aren't just about business; we're guardians of a culinary legacy deeply woven into the fabric of India. Since 1985, we've been curating a vibrant array of spices, each one representing the essence of India's diverse flavours.
               </p>
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">
               We've cultivated enduring partnerships with local spice growers across the country, ensuring that every spice blend on our shelves and in leading markets reflects our unwavering commitment to quality.

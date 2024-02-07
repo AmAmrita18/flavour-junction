@@ -44,7 +44,7 @@ const CulinaryElegance = () => {
               </h4>
             </div>
             <h1 className="py-4 lg:text-[50px] md:text-[40px] text-[30px]  leading-none font-[600] text-[#EF4030]">
-            A Symphony of Time-Honored Flavors            </h1>
+            A Symphony of Time-Honored Flavours            </h1>
             <div className="flex flex-col gap-y-4">
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] pr-8 text-[#f6f7eb]  leading-tight">
               At Spice Emporium, we marry the richness of tradition with the elegance of modernity, presenting you with an unparalleled gastronomic odyssey. Our seasoned connoisseurs tirelessly refine their expertise to curate the most exquisite spices from every corner of India. It's not just a mere transaction; it's a heartfelt journey delving into the essence of Indian culinary heritage.

@@ -40,7 +40,7 @@ const Cultivated = () => {
               </h4>
             </div>
             <h1 className="py-4 lg:text-[50px] md:text-[40px] text-[30px] leading-tight font-[600] text-[#EF4030]">
-            Our Farm-to-Flavor Journey
+            Our Farm-to-Flavour Journey
             </h1>
             <div className="flex flex-col gap-y-4">
               <p className="lg:text-[19px] md:text-[18px] text-[15px]  font-[400] text-[#f6f7eb] leading-tight">

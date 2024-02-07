@@ -26,7 +26,7 @@ const Selection = () => {
             </h4>
           </div>
           <h1 className="py-4 lg:text-[50px] md:text-[40px] text-[30px] text-center font-[600] lg:mx-32 mx-auto leading-tight text-[#EF4030] ">
-          Spice up your culinary journey with our handpicked selection, bringing the vibrant flavors of India straight to your kitchen.
+          Spice up your culinary journey with our handpicked selection, bringing the vibrant flavours of India straight to your kitchen.
           </h1>
         </div>
 

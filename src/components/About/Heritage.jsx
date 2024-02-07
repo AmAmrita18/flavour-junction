@@ -26,7 +26,7 @@ const Heritage = () => {
               At Flavour Junction, we are more than just spice merchants; we are stewards of India's rich culinary legacy. For over three decades, we've journeyed across the vast expanse of India, sourcing the finest spices from the heartlands to the hinterlands. Our story, which began in 1985 with a vision by Mr. Ramesh Patel, is one of dedication, reverence for tradition, and a deep-rooted connection to the communities we serve.
               </p>
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">
-              Our approach blends age-old techniques with innovative methods to responsibly cultivate spices, honoring the land and preserving its bounty for generations to come. At the core of MasalaMania lies our mission not only to sell spices but also to enlighten and share the narratives behind each flavor we offer.
+              Our approach blends age-old techniques with innovative methods to responsibly cultivate spices, honoring the land and preserving its bounty for generations to come. At the core of Flavour Junction lies our mission not only to sell spices but also to enlighten and share the narratives behind each flavour we offer.
               </p>
             </div>
             <Link to="/about" className="text-[#f6f7eb] bg-[#EF4030] transition-all duration-700 ease-in-out hover:scale-95  flex items-center w-[230px] gap-3 mt-8 px-8 py-5 rounded-full font-[600] md:text-[17px] text-[15px]">
