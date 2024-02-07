@@ -1,5 +1,6 @@
 import React from "react";
 import Hero from "../Hero";
+import GetInTouch from "./GetInTouch";
 
 
 const description1 = `Spice Talks - Reach Out to the Tastemakers at Flavour Junction`;
@@ -16,6 +17,7 @@ const Contact = () => {
       button={button}
       heroImage={heroImage}
     />
+    <GetInTouch/>
     </div>
     
   );
