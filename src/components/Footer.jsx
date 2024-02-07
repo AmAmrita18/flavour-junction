@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className="w-full ">
       <div className="w-[80%] max-w-[1200px] px-4 py-8 mx-auto">
-        <div className="flex md:flex-row flex-col md:gap-y-0 gap-y-5 justify-between border-b border-[#eb5e28] md:py-20 py-6 items-center  ">
+        <div className="flex md:flex-row flex-col md:gap-y-0 gap-y-5 justify-between md:border-b border-[#EF4030] md:py-20 py-6 items-center  ">
           <ul className="flex lg:gap-x-14 md:gap-x-10 gap-x-[0.65rem] lg:text-[18px] md:[text-15px] text-[10px] font-[500] text-[#f6f7eb] leading-6">
             <li className="transition-all duration-700 ease-in-out  hover:scale-95 ">
               <Link to="/">HOME</Link>
@@ -27,7 +27,7 @@ const Footer = () => {
           </h1>
         </div>
 
-        <div className="flex py-16 mb-2">
+        <div className="flex md:py-16 py-2 mb-2">
           <div className="w-[35%] flex md:flex-row flex-col md:my-0 my-auto gap-5  items-center">
             <div className="w-7 cursor-pointer h-7 rounded-full flex items-center justify-center border border-[#f6f7eb]">
               <TiSocialFacebook className="text-[#f6f7eb] text-lg" />
