@@ -17,7 +17,7 @@ import product15 from "../../assets/15coriander.jpg";
 const Selection = () => {
   return (
     <div className="w-full">
-      <div className="w-[80%]  max-w-[1200px] pt-8 lg:pb-24 md:pb-16 pb-8 mx-auto">
+      <div className="w-[80%]  max-w-[1200px] pt-8 lg:pb-32 md:pb-16 pb-8 mx-auto">
         <div className="flex flex-col items-center justify-center md:mt-24 mt-8">
           <div className="flex gap-4 items-center ">
             <div className="w-3 h-3 bg-[#f6f7eb]"></div>
