@@ -13,7 +13,7 @@ const CulinaryElegance = () => {
         <div className="flex md:flex-row flex-col lg:gap-28 md:gap-12 gap-3">
           <div className=" md:w-[44%] w-full md:px-0 px-4 md:mb-0 mb-8">
             <div className="relative  top-16  rounded-tl-[48px] ">
-              <div className="absolute -z-10 md:left-[-55px] md:bottom-[-55px] left-[-35px] bottom-[-35px]">
+              <div className="absolute -z-10 md:left-[-55px] md:top-[-55px] left-[-35px] top-[-35px]">
                 <img
                   src={box}
                   alt=""

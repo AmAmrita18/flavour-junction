@@ -6,7 +6,7 @@ import ctaImage from "/hero1.jpg";
 const Cta = () => {
   return (
     <div
-      className="w-full h-screen"
+      className="w-full h-screen "
       style={{
         backgroundImage: `url('${ctaImage}')`,
         backgroundRepeat: "no-repeat",
@@ -14,7 +14,7 @@ const Cta = () => {
         objectFit: "cover",
       }}
     >
-      <div className="w-[80%] h-full mx-auto max-w-[1200px] flex flex-col justify-center items-center">
+      <div className="w-[80%] h-full mx-auto  max-w-[1200px] flex flex-col justify-center items-center">
         <h1 className="lg:text-7xl md:text-6xl text-5xl leading-tight text-center mt-24 text-[#f6f7eb] font-[600]">
           Wants to Know more about Flavour Junction
         </h1>

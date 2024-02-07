@@ -48,7 +48,7 @@ const Sustainability = () => {
               In today's conscientious culinary landscape, where the journey of ingredients is as cherished as their taste, Flavour Junction shines. We are educators, stewards of the land, and a close-knit community, dedicated to upholding the tradition of ethical sourcing and reveling in the essence of fresh, aromatic spices.
               </p>
               <p className="lg:text-[19px] md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">
-              Discover our dedication at Kerela Spice Market, where the essence of our spices, the depth of our tales, and the warmth of Indian hospitality beckon you to join in our heritage.
+              Discover our dedication at Varanasi Spice Market, where the essence of our spices, the depth of our tales, and the warmth of Indian hospitality beckon you to join in our heritage.
               </p>
             </div>
           </div>

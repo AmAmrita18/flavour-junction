@@ -13,7 +13,7 @@ const GetInTouch = () => {
         <div className="flex md:flex-row flex-col lg:gap-28 md:gap-12 gap-3">
           <div className=" md:w-[44%] w-full md:px-0 px-4 md:mb-0 mb-8">
             <div className="relative  top-16  rounded-tl-[48px] ">
-              <div className="absolute -z-10 md:left-[-55px] md:bottom-[-55px] left-[-35px] bottom-[-35px]">
+              <div className="absolute -z-10 md:left-[-55px] md:top-[-55px] left-[-35px] top-[-35px]">
                 <img
                   src={box}
                   alt=""
@@ -87,7 +87,7 @@ const GetInTouch = () => {
                     Visit our stall:
                   </h2>
                   <p className="lg:text-[19px] md:text-[18px] text-[11px] font-[200] text-[#EF4030] leading-tight">
-                    Stall Number 4, Kerela Spice Market
+                    Stall Number 4, Varanasi Spice Market
                   </p>
                 </div>
               </div>
