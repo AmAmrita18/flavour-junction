@@ -19,7 +19,7 @@ const CulinaryElegance = () => {
                   alt=""
                   width={190}
                   height={170}
-                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[170px] h-[150px] rounded-3xl"
+                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[160px] h-[140px] rounded-3xl"
                   loading="lazy"
                 />
               </div>

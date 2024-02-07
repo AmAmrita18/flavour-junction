@@ -15,7 +15,7 @@ const Sustainability = () => {
                   alt=""
                   width={190}
                   height={170}
-                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[170px] h-[150px] rounded-3xl"
+                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[160px] h-[140px] rounded-3xl"
                   loading="lazy"
                 />
               </div>
@@ -29,7 +29,7 @@ const Sustainability = () => {
               />
             </div>
           </div>
-          <div className="md:w-[50%] w-full  lg:mt-40 md:mt-4 mt-0 md:px-0 px-4">
+          <div className="md:w-[50%] w-full  lg:mt-8 md:mt-4 mt-0 md:px-0 px-4">
             <div className="flex gap-4 items-center ">
               <div className="w-3 h-3 bg-[#f6f7eb] "></div>
               <h4 className="text-xl font-[600] text-[#EF4030]">

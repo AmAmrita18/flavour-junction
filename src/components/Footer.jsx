@@ -22,17 +22,17 @@ const Footer = () => {
               <Link to="/contact">CONTACT</Link>
             </li>
           </ul>
-          <h1 className="text-[#f6f7eb] tracking-[0.3em]  md:text-[20px] text-[17px] font-[600]">
+          <h1 className="text-[#EF4030] tracking-[0.3em]  md:text-[20px] text-[17px] font-[600]">
             FLAVOUR JUNCTION
           </h1>
         </div>
 
         <div className="flex py-16 mb-2">
           <div className="w-[35%] flex md:flex-row flex-col md:my-0 my-auto gap-5  items-center">
-            <div className="w-7 cursor-pointer h-7 rounded-full flex items-center justify-center border border-[#EF4030]">
+            <div className="w-7 cursor-pointer h-7 rounded-full flex items-center justify-center border border-[#f6f7eb]">
               <TiSocialFacebook className="text-[#f6f7eb] text-lg" />
             </div>
-            <div className="w-7 h-7 cursor-pointer rounded-full flex items-center justify-center border border-[#EF4030]">
+            <div className="w-7 h-7 cursor-pointer rounded-full flex items-center justify-center border border-[#f6f7eb]">
               <IoLogoInstagram className="text-[#f6f7eb] text-xs" />
             </div>
           </div>

@@ -8,7 +8,7 @@ const SpiceSensations = () => {
   return (
     <div className="w-full">
       <div className="w-[80%]  max-w-[1200px] py-8 lg:my-20 md:my-10 my-5 mx-auto">
-        <div className="flex md:flex-row flex-col lg:gap-44 md:gap-10 gap-10">
+        <div className="flex md:flex-row flex-col lg:gap-28 md:gap-10 gap-10">
           <div className=" md:w-[50%] w-full md:mb-0 mb-8 md:px-0 px-4 ">
             <div className="relative top-16  rounded-tl-[48px] ">
               <div className="absolute -z-10  md:left-[-55px] md:top-[-55px] left-[-35px] top-[-35px]">
@@ -17,7 +17,7 @@ const SpiceSensations = () => {
                   alt=""
                   width={190}
                   height={170}
-                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[170px] h-[150px] rounded-3xl"
+                  className="object-cover lg:w-[190px] lg:h-[180px] md:w-[170px] md:h-[165px] w-[160px] h-[140px] rounded-3xl"
                   loading="lazy"
                 />
               </div>
