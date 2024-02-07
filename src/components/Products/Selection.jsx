@@ -28,6 +28,11 @@ const Selection = () => {
           <h1 className="py-4 lg:text-[50px] md:text-[40px] text-[30px] text-center font-[600] lg:mx-32 mx-auto leading-tight text-[#EF4030] ">
           Spice up your culinary journey with our handpicked selection, bringing the vibrant flavours of India straight to your kitchen.
           </h1>
+          <p className="lg:text-[19px] md:text-[18px] text-[15px] text-center font-[400] text-[#f6f7eb] leading-tight md:mx-[4.75rem] mx-0">
+          Step into a world of sensory delight at Flavour Junction, where our extensive array of spices awaits your exploration. From the vibrant hues of turmeric to the smoky richness of cumin, each jar tells a story of India's diverse culinary landscape. Immerse yourself in our aromatic offerings and elevate your dishes to new heights of flavour.
+
+
+            </p>
         </div>
 
         
