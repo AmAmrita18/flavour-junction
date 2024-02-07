@@ -9,7 +9,7 @@ import { IoLocationOutline } from "react-icons/io5";
 const GetInTouch = () => {
   return (
     <div className="w-full">
-      <div className="w-[80%]  max-w-[1200px] lg:pt-8 md:pt-0 pt-0 lg:pb-24 md:pb-16 pb-14 md:my-12 my-0 mx-auto">
+      <div className="w-[80%]  max-w-[1200px] lg:pt-8 md:pt-0 pt-0 lg:pb-24 md:pb-16 pb-4 md:my-12 my-0 mx-auto">
         <div className="flex md:flex-row flex-col lg:gap-28 md:gap-12 gap-3">
           <div className=" md:w-[44%] w-full md:px-0 px-4 md:mb-0 mb-8">
             <div className="relative  top-16  rounded-tl-[48px] ">
@@ -51,7 +51,7 @@ const GetInTouch = () => {
               </p>
             </div>
 
-            <div className="flex flex-col gap-y-8 ">
+            <div className="flex flex-col gap-y-8 md:mt-0 mt-4 ">
               <div className="flex flex-row items-center gap-4">
                 <div className="md:w-14 w-10 md:h-14 h-10 cursor-pointer bg-[#f6f7eb] flex items-center justify-center rounded-full">
                   <IoCallOutline className="text-[#EF4030] text-2xl" />

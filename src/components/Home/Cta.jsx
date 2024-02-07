@@ -15,7 +15,7 @@ const Cta = () => {
       }}
     >
       <div className="w-[80%] h-full mx-auto  max-w-[1200px] flex flex-col justify-center items-center">
-        <h1 className="lg:text-7xl md:text-6xl text-5xl leading-tight text-center mt-24 text-[#f6f7eb] font-[600]">
+        <h1 className="lg:text-7xl md:text-6xl text-[2.1rem] leading-tight text-center mt-24 text-[#f6f7eb] font-[600]">
           Wants to Know more about Flavour Junction
         </h1>
         <p className="lg:text-[19px] text-center md:px-20 px-4 pt-6 md:text-[18px] text-[15px] font-[400] text-[#f6f7eb] leading-tight">Dive deeper into the world of Flavour Junction to discover the stories and traditions woven into every jar of spice.</p>
